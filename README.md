@@ -1,7 +1,7 @@
 # ver_EnchantLimiter
 Plugin na limitowanie enchantow!
 
-Kod sprzed 2-3 lat, robiony z nudow.
+Kod sprzed 5 lat, robiony z nudow.
 ## Lista funkcji
 - blokowanie enchantow
 - blokowanie laczenia w kowadle
